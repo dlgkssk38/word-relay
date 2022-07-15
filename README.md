@@ -22,3 +22,6 @@
   2. git commit -m '메세지'
   2. git pull origin master
   2. git push origin master
+
+## 끝말잇기 시작!
+이한나: 리어카
